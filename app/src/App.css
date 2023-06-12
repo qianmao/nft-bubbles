@@ -1,0 +1,17 @@
+.App {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.label {
+  text-align: center;
+  font-size: 5vw;
+  color: white;
+}
+
+.highcharts-container {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
